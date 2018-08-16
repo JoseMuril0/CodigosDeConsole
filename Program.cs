@@ -10,7 +10,14 @@ namespace CodigosConsoles
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Oi, console");
+            Console.WriteLine("Informe um valor: ");
+            double valor = double.Parse(Console.ReadLine());
+
+            double Juros = valor * 0.10;
+            Console.WriteLine("Juros de 10% no valor digitado: R$ " + Juros);
+
+
+
             Console.ReadLine();
         }
     }
