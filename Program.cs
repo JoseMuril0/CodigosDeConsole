@@ -10,15 +10,15 @@ namespace CodigosConsoles
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Informe um valor: ");
-            double valor = double.Parse(Console.ReadLine());
 
-            double Juros = valor * 0.10;
-            Console.WriteLine("Juros de 10% no valor digitado: R$ " + Juros);
-
-
+            Console.WriteLine(Maior(20, 10));
 
             Console.ReadLine();
+        }
+
+        public static bool Maior(int num1, int num2)
+        {
+            return num1 > num2;
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Murilo\Desktop\ALURA\Git\CodigosConsoles\CodigosConsoles\bin\Debug\CodigosConsoles.exe.config
+C:\Users\Murilo\Desktop\ALURA\Git\CodigosConsoles\CodigosConsoles\bin\Debug\CodigosConsoles.exe
+C:\Users\Murilo\Desktop\ALURA\Git\CodigosConsoles\CodigosConsoles\bin\Debug\CodigosConsoles.pdb
+C:\Users\Murilo\Desktop\ALURA\Git\CodigosConsoles\CodigosConsoles\obj\Debug\CodigosConsoles.csprojAssemblyReference.cache
+C:\Users\Murilo\Desktop\ALURA\Git\CodigosConsoles\CodigosConsoles\obj\Debug\CodigosConsoles.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\Desktop\ALURA\Git\CodigosConsoles\CodigosConsoles\obj\Debug\CodigosConsoles.exe
+C:\Users\Murilo\Desktop\ALURA\Git\CodigosConsoles\CodigosConsoles\obj\Debug\CodigosConsoles.pdb
