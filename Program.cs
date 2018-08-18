@@ -11,14 +11,16 @@ namespace CodigosConsoles
         static void Main(string[] args)
         {
 
-            Console.WriteLine(Maior(20, 10));
+            try
+            {
+                int numero = 10, divisor = 0;
+                int resultado = numero / divisor;
+            } catch(DivideByZeroException e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
             Console.ReadLine();
-        }
-
-        public static bool Maior(int num1, int num2)
-        {
-            return num1 > num2;
         }
     }
 }
